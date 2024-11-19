@@ -9,7 +9,7 @@
         "other": true,
         "hentai": true,
         "lavalink": true,
-        "troll": true
+        "troll": false
     },
     "categories": {
         "anime": false,
